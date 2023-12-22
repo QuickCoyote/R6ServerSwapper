@@ -1,0 +1,22 @@
+﻿<Window x:Class="R6ServerSwap.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:src="clr-namespace:R6ServerSwap"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="119" Width="400">
+    <StackPanel>
+        <StackPanel.Resources>
+            <src:DataCenters x:Key="dataCentersObject"/>
+        </StackPanel.Resources>
+        
+        <ComboBox Name="comboBox1"
+            ItemsSource="{StaticResource dataCentersObject}"
+            Text="Data Centers"
+            IsEditable="true"
+            IsReadOnly="true"/>
+
+        <Button Click="Button_Click" Content="Submit Data Center"/>
+        <TextBlock Name="ConfirmationTextBlock"/>
+    </StackPanel>
+</Window>
