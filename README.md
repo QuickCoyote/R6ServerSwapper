@@ -9,7 +9,7 @@ ie. QuickCoyote/Documents/My Games/Rainbow Six - Siege/
 
 After accessing that folder, it then goes through all folders in there
 
-the Layout is \n
+the Layout is
 User Path
 -> Documents
   -> My Games
