@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Azlexium Engine\\R6ServerSwapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCE64AF-9CB7-4CD1-89B5-94841A2B1328}|R6ServerSwap\\R6ServerSwap.csproj|c:\\azlexium engine\\r6serverswapper\\r6serverswap\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCE64AF-9CB7-4CD1-89B5-94841A2B1328}|R6ServerSwap\\R6ServerSwap.csproj|solutionrelative:r6serverswap\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCE64AF-9CB7-4CD1-89B5-94841A2B1328}|R6ServerSwap\\R6ServerSwap.csproj|c:\\azlexium engine\\r6serverswapper\\r6serverswap\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6FCE64AF-9CB7-4CD1-89B5-94841A2B1328}|R6ServerSwap\\R6ServerSwap.csproj|solutionrelative:r6serverswap\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCE64AF-9CB7-4CD1-89B5-94841A2B1328}|R6ServerSwap\\R6ServerSwap.csproj|c:\\azlexium engine\\r6serverswapper\\r6serverswap\\datacenters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCE64AF-9CB7-4CD1-89B5-94841A2B1328}|R6ServerSwap\\R6ServerSwap.csproj|solutionrelative:r6serverswap\\datacenters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataCenters.cs",
+              "DocumentMoniker": "C:\\Azlexium Engine\\R6ServerSwapper\\R6ServerSwap\\DataCenters.cs",
+              "RelativeDocumentMoniker": "R6ServerSwap\\DataCenters.cs",
+              "ToolTip": "C:\\Azlexium Engine\\R6ServerSwapper\\R6ServerSwap\\DataCenters.cs",
+              "RelativeToolTip": "R6ServerSwap\\DataCenters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T19:28:50.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Azlexium Engine\\R6ServerSwapper\\R6ServerSwap\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "R6ServerSwap\\MainWindow.xaml",
+              "ToolTip": "C:\\Azlexium Engine\\R6ServerSwapper\\R6ServerSwap\\MainWindow.xaml",
+              "RelativeToolTip": "R6ServerSwap\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-08T19:28:50.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Azlexium Engine\\R6ServerSwapper\\R6ServerSwap\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "R6ServerSwap\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Azlexium Engine\\R6ServerSwapper\\R6ServerSwap\\MainWindow.xaml.cs",
+              "RelativeToolTip": "R6ServerSwap\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T19:28:50.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -20,3 +20,25 @@ C:\Users\JLau\Desktop\Projects\R6ServerSwap\R6ServerSwap\obj\Release\net6.0-wind
 C:\Users\JLau\Desktop\Projects\R6ServerSwap\R6ServerSwap\obj\Release\net6.0-windows\R6ServerSwap.pdb
 C:\Users\JLau\Desktop\Projects\R6ServerSwap\R6ServerSwap\obj\Release\net6.0-windows\R6ServerSwap.genruntimeconfig.cache
 C:\Users\JLau\Desktop\Projects\R6ServerSwap\R6ServerSwap\obj\Release\net6.0-windows\ref\R6ServerSwap.dll
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\bin\Release\net6.0-windows\R6ServerSwap.exe
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\bin\Release\net6.0-windows\R6ServerSwap.deps.json
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\bin\Release\net6.0-windows\R6ServerSwap.runtimeconfig.json
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\bin\Release\net6.0-windows\R6ServerSwap.dll
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\bin\Release\net6.0-windows\R6ServerSwap.pdb
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\obj\Release\net6.0-windows\App.g.cs
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\obj\Release\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\obj\Release\net6.0-windows\R6ServerSwap_MarkupCompile.cache
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\obj\Release\net6.0-windows\R6ServerSwap_MarkupCompile.lref
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\obj\Release\net6.0-windows\MainWindow.baml
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\obj\Release\net6.0-windows\R6ServerSwap.g.resources
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\obj\Release\net6.0-windows\R6ServerSwap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\obj\Release\net6.0-windows\R6ServerSwap.AssemblyInfoInputs.cache
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\obj\Release\net6.0-windows\R6ServerSwap.AssemblyInfo.cs
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\obj\Release\net6.0-windows\R6ServerSwap.csproj.CoreCompileInputs.cache
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\obj\Release\net6.0-windows\R6ServerSwap.sourcelink.json
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\obj\Release\net6.0-windows\R6ServerSwap.dll
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\obj\Release\net6.0-windows\refint\R6ServerSwap.dll
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\obj\Release\net6.0-windows\R6ServerSwap.pdb
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\obj\Release\net6.0-windows\R6ServerSwap.genruntimeconfig.cache
+C:\Azlexium Engine\R6ServerSwapper\R6ServerSwap\obj\Release\net6.0-windows\ref\R6ServerSwap.dll

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SUwvMJRvwhCTZavzp6WxGgwklNy7xg8Uc15YbjBZVjYzgC2dqBKBsWWM2n49jQdxh7g3eKk4hjYeKEhIsVMGSg==",
+  "dgSpecHash": "DaEdn3qRPvw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\JLau\\Desktop\\Projects\\R6ServerSwap\\R6ServerSwap\\R6ServerSwap.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Azlexium Engine\\R6ServerSwapper\\R6ServerSwap\\R6ServerSwap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }
